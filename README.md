@@ -1,4 +1,5 @@
 Walmart Weekly Sales Prediction 📊
+
 📌 Project Overview:
 
 This project uses Machine Learning to predict Walmart's weekly sales using historical sales data and related features such as store information, holidays, temperature, fuel prices, CPI, unemployment, and date.
@@ -66,7 +67,7 @@ Generate sample weekly sales predictions.
 Parameters used:
 - Number of estimators: 100
 - Random state: 42
-- 
+ 
 2. XGBoost Regressor
 - XGBoost is a gradient boosting algorithm that builds decision trees sequentially to improve predictive performance.
 Parameters used:
